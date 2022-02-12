@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghelanikirtan&show_icons=true&locale=en&layout=compact" alt="ghelanikirtan" /></p>
 <!-- &nbsp; -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghelanikirtan&show_icons=true&locale=en" alt="ghelanikirtan" /></p>
-
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ghelanikirtan)](https://github.com/anuraghazra/github-readme-stats)
