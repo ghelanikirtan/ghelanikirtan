@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **any programming and tech related stuffs**
 
-- 📫 How to reach me **kyghelani1@gmail.com**
+- 📫 How to reach me **kyghelani2@gmail.com**
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me:
