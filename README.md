@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, 'm Kirtan Ghelani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&label=Profile%20views&color=0e75b6&style=flat" alt="ghelanikirtan" /> </p>
 
-- 🔭 I’m currently working on **problem solving and Machine Learning**
+- 🔭 I’m currently working on **python for AI-ML**
 
-- 🌱 I’m currently learning **python for AI-ML**
+- 🌱 I’m currently learning **MERN Stack development and Web3.0**
 
 - 💬 Ask me about **any programming and tech related stuffs**
 
