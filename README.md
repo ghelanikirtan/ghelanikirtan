@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&label=Profile%20views&color=0e75b6&style=flat" alt="ghelanikirtan" /> </p>
 
 <!-- - I’m currently working on **AI-ML, MERN Stack development and Web3.0** -->
-- Currently, I am involved in the development of **AI-ML** solutions, **MERN Stack applications**, and **Web3.0** technologies.
+- 🧑‍💻 Currently, I am involved in the development of **AI-ML** solutions, **MERN Stack applications**, and **Web3.0** technologies.
 
 - 💬 Ask me about **any programming and tech related stuffs**
 
