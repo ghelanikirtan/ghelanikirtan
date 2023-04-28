@@ -1,11 +1,12 @@
 <h1 align="center">Hola 👋, 'm Kirtan Ghelani</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&label=Profile%20views&color=0e75b6&style=flat" alt="ghelanikirtan" /> </p>
 
-- 🔭 I’m currently working on **AI-ML, MERN Stack development and Web3.0**
+<!-- - I’m currently working on **AI-ML, MERN Stack development and Web3.0** -->
+- Currently, I am involved in the development of **AI-ML** solutions, **MERN Stack applications**, and **Web3.0** technologies.
 
 - 💬 Ask me about **any programming and tech related stuffs**
 
-- 📫 How to reach me **kyghelani2@gmail.com**
+- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **kyghelani2@gmail.com** .
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me:
@@ -32,5 +33,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghelanikirtan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### <a href="https://twitter.com/kirtan_ghelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_ghelani" height="30" width="40" /> Tweets 🐥</a>
+### <a href="https://twitter.com/kirtan_ghelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_ghelani" height="30" width="40" /></a>
 [![](https://gtce.itsvg.in/api?username=kirtan_ghelani)](https://twitter.com/kirtan_ghelani)
