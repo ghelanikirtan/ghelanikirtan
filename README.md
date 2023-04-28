@@ -29,8 +29,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ghelanikirtan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- &nbsp; -->
-## <a href="https://twitter.com/kirtan_ghelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_ghelani" height="30" width="40" /></a>
-[![](https://gtce.itsvg.in/api?username=kirtan_ghelani)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+### <a href="https://twitter.com/kirtan_ghelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_ghelani" height="30" width="40" /></a>
+[![](https://gtce.itsvg.in/api?username=kirtan_ghelani)](https://twitter.com/kirtan_ghelani)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ghelanikirtan&limit=5&theme=dark&combine_all_yearly_contributions=true)
