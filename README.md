@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **any programming and tech related stuffs**
 
-- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **kyghelani2@gmail.com** .
+- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **kyghelani2@gmail.com**.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me:
@@ -43,4 +43,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ghelanikirtan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### <a href="https://twitter.com/kirtan_ghelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kirtan_ghelani" height="30" width="40" /></a>
-[![](https://gtce.itsvg.in/api?username=kirtan_ghelani)](https://twitter.com/kirtan_ghelani)
+
