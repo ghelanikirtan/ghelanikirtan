@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, 'm Kirtan Ghelani</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&label=Profile%20views&color=0e75b6&style=flat" alt="ghelanikirtan" /> </p>
+
 
 <!-- - I’m currently working on **AI-ML, MERN Stack development and Web3.0** -->
 - 🧑‍💻 Currently, I am involved in the development of **AI-ML** solutions, **MERN Stack applications**, and **Web3.0** technologies.
@@ -42,3 +42,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ghelanikirtan&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&label=Profile%20views&color=0e75b6&style=flat" alt="ghelanikirtan" /> </p>
