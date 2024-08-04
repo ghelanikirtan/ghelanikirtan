@@ -2,11 +2,13 @@
 
 
 <!-- - I’m currently working on **AI-ML, MERN Stack development and Web3.0** -->
-- 🧑‍💻 Currently, I am involved in the development of **AI-ML** solutions, **MERN Stack applications**, and **Web3.0** technologies.
+- Portfolio Website: https://ghelanikirtan.vercel.app/
+  
+- 🧑‍💻 Currently, I am involved in the development of **AI-ML (Neural Networks, Generative AI, & so on)** solutions, **MERN Stack applications**.
 
-- 💬 Ask me about **any programming and tech related stuffs**
+- 💬 Ask me about **any programming, tech and Artificial Intelligence related stuffs**
 
-- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **kyghelani2@gmail.com**.
+- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please get in touch with me at **kyghelani2@gmail.com**.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me:
