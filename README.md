@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **any programming, tech and Artificial Intelligence related stuffs**
 
-- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please get in touch with me at **kyghelani2@gmail.com**.
+- 📫 If you're interested in collaborating on a project or exploring potential partnership opportunities, please get in touch with me at **kghelani.dev@gmail.com**.
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 ## Connect with me:
