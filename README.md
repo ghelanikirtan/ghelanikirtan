@@ -19,8 +19,8 @@
 <a href="https://codeforces.com/profile/kyghelani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kyghelani2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14763992" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14763992" height="30" width="40" /></a>
   
-<a href="https://medium.com/@kyghelani2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kyghelani2" height="30" width="40" /></a>
-<!--   <a href="https://dev.to/ghelanikirtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghelanikirtan" height="30" width="40" /></a> -->
+<a href="https://ghelanik.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kyghelani2" height="30" width="40" /></a>
+<!--<a href="https://dev.to/ghelanikirtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ghelanikirtan" height="30" width="40" /></a> 
 
 
 
