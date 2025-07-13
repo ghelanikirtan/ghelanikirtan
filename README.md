@@ -6,7 +6,7 @@
   AI Developer specializing in Deep Neural Networks, Generative AI, and Agentic Solutions. Building the future, one model at a time.
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&color=green" alt="Views">
+  <img src="https://komarev.com/ghpvc/?username=ghelanikirtan&color=blue" alt="Views">
 </p>
 
 - 🌐 Portfolio: **[ghelanikirtan.vercel.app 🔗](https://ghelanikirtan.vercel.app/)**
